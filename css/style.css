@@ -374,7 +374,7 @@ a:hover{
 .navbar-default .navbar-nav>li>a{
     color: #333333;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 60;
     text-transform: uppercase;
 	transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
